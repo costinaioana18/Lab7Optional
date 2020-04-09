@@ -7,7 +7,7 @@ I have completed the following optional tasks:
 - Implementing a timekeeper thread. It count the game's running time in seconds and prints them on the screen when the game ends.
 If the game exceeds a certain time limit, it forces the game to stop.
 
--Implementing the Player abstract class and its subclasses in the following way: 
+- Implementing the Player abstract class and its subclasses in the following way: 
 
 RandomPlayer -> randomly extracts a token
 
@@ -15,3 +15,5 @@ SmartPlayer -> analyzes the boards' tokens and his own arithmetic progressions a
 
 ManualPlayer -> scans the index from the keyboard. If the index is not properly chosen by the client (meaning the token doesn
 t exist) a random index will be assigned 
+
+*See the output7.jpg* photo to see how the program notifies the players and how it deals with an unproperly chosen index ( Jasmine's case, she is a manual player)
