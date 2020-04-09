@@ -16,4 +16,4 @@ SmartPlayer -> analyzes the boards' tokens and his own arithmetic progressions a
 ManualPlayer -> scans the index from the keyboard. If the index is not properly chosen by the client (meaning the token doesn
 t exist) a random index will be assigned 
 
-*See the output7.jpg* photo to see how the program notifies the players and how it deals with an unproperly chosen index ( Jasmine's case, she is a manual player)
+**See the output7.jpg photo to see how the program notifies the players and how it deals with an unproperly chosen index ( Jasmine's case, she is a manual player)**
