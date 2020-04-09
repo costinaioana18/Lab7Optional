@@ -4,8 +4,8 @@ I have completed the following optional tasks:
 
 - Notifying a player it's his turn by printing a message. He is notified to wait for its turn, the same way.
 
-- Implementing a timekeeper thread. It count the game's running time in seconds and prints them on the screen when the game ends.
-If the game exceeds a certain time limit, it forces the game to stop.
+- Implementing a timekeeper thread. It counts the game's running time in seconds and prints them on the screen when the game ends.
+If the game exceeds a certain time limit, it will be forced to stop.
 
 - Implementing the Player abstract class and its subclasses in the following way: 
 
